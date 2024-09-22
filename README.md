@@ -1,7 +1,5 @@
 # Credit Scoring Project: Loan Repayment Prediction
 
-# Credit Scoring Project
-
 This project aims to predict loan repayment outcomes using machine learning techniques. The project builds a credit scoring model based on features like applicant income, co-applicant income, loan amount, credit history, and other borrower attributes. The final model is deployed to help financial institutions make informed decisions about loan approvals, pricing, and other credit-related decisions.
 
 ## Project Overview
